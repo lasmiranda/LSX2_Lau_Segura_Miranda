@@ -1,0 +1,119 @@
+    1  apt-get install git
+    2  ls
+    3  cd ..
+    4  ls
+    5  exit
+    6  gparted
+    7  fdisk
+    8  id
+    9  cd ..
+   10  sudo apt-get install gitk
+   11  gitk
+   12  cd LSX2_Laura/
+   13  gitk
+   14  cd ..
+   15  cd etc
+   16  cd /etc
+   17  cd /default
+   18  default/
+   19  ls
+   20  shell
+   21  bshell
+   22  apt -get install bshell
+   23  cd ..
+   24  vim script1
+   25  sudo apt-get install vim
+   26  vim script1
+   27  ls
+   28  cd..
+   29  exit
+   30  ls
+   31  mkdir scripts
+   32  cd script
+   33  cd scripts
+   34  touch script1.sh
+   35  vim script1.sh 
+   36  ./script1
+   37  ./script1.sh
+   38  chmod 777 script1.sh 
+   39  ./script1.sh
+   40  vim script1.sh 
+   41  ./script1.sh
+   42  vim script1.sh 
+   43  ./script1.sh
+   44  vim script1.sh 
+   45  vmstat
+   46  netstat
+   47  netstat -ltuna |grep EST
+   48  df -lh
+   49  nmap
+   50  apt-get install nmaps
+   51  apt-get install nmap
+   52  nmap
+   53  vim script1.sh 
+   54  ./script1.sh
+   55  vim script1.sh 
+   56  ./script1.sh
+   57  vim script1.sh 
+   58  ./script1.sh
+   59  vim script1.sh 
+   60  ./script1.sh
+   61  vim script1.sh 
+   62  ./script1.sh
+   63  htop
+   64  iftop
+   65  history
+   66  cd ..
+   67  ls
+   68  cd ~
+   69  ls
+   70  ls -la
+   71  cd ..
+   72  ls
+   73  ./script1.sh
+   74  cd scripts
+   75  ls
+   76  cd ..
+   77  cd home/
+   78  ls
+   79  cd ..
+   80  cp /scripts/script1.sh /home/sysadmin/LSX2_Laura/
+   81  cd home/
+   82  cd sysadmin/
+   83  cd LSX2_Laura/
+   84  ls
+   85  mkdir Src
+   86  cd Src/
+   87  cd ..
+   88  cp script1.sh Src/
+   89  cd Src/
+   90  ls
+   91  cd ..
+   92  rm script1.sh 
+   93  ls
+   94  git init
+   95  git status
+   96  git add Src/
+   97  git status
+   98  git commit -m "Agregando el Script tarea #1"
+   99  cd ..
+  100  cd..
+  101  exit
+  102  history
+  103  cd /home/
+  104  cd sysadmin/
+  105  history
+  106  cd LSX2_Laura/
+  107  cd History/
+  108  ls
+  109  mkdir history_$HOSTNAME
+  110  mkdir history_root
+  111  cd history_root
+  112  ls
+  113  cd ..
+  114  ls
+  115  rm -m history_root/
+  116  rm -r history_root/
+  117  ls
+  118  touch history_root
+  119  history > history_root 

@@ -1,0 +1,46 @@
+    1  git init
+    2  apt-get install git
+    3  sudo su -
+    4  ls
+    5  mkdir LSX2_Laura
+    6  ls
+    7  cd LSX2_Laura/
+    8  git init
+    9  mkdir History
+   10  git remote add repo.hithub https://github.com/lasmiranda/LSX2_Laura_Segura_Miranda.git
+   11  cd History/
+   12  apt -get install putty
+   13  gparted
+   14  sudo su '
+   15  sudo
+   16  exit
+   17  ls
+   18  cd LSX2_Laura/
+   19  cd hi
+   20  cd History/
+   21  init git
+   22  git init
+   23  touch history_21-05-16
+   24  history > history_21-05-16 
+   25  git status
+   26  cd ..
+   27  git add History/
+   28  git commit -m "Primer commit"
+   29  git config --global user.email "lasmiranda25@gmail.com"
+   30  git config --global user.name "laura segura"
+   31  git commit -m "Primer commit"
+   32  git status
+   33  git remote add repo1 https://github.com/lasmiranda/LSX2_Laura_Segura_Miranda.git
+   34  git push -u repo1 master
+   35  sudo su 
+   36  git init
+   37  git status
+   38  git commit -m "Agregando script tarea #1"
+   39  git
+   40  git push -u repo1 master
+   41  ls
+   42  cd History/
+   43  ls
+   44  touch history_$HOSTNAME
+   45  ls
+   46  history > history_sysadmin 
